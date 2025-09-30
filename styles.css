@@ -47,5 +47,12 @@ body{
 
 .site-footer{max-width:var(--maxw);margin:18px auto;text-align:center;color:var(--muted);font-size:13px;padding:12px}
 .small{margin-top:6px}
+img {
+  max-width: 100%; /* Ensures images scale down but not up beyond their natural size */
+  height: auto;    /* Maintains the image's aspect ratio */
+  display: block;  /* Prevents extra whitespace at the bottom */
+}
+
+
 
 
