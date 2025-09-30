@@ -22,7 +22,7 @@ body{
   padding:48px 20px;
   background:
     linear-gradient(90deg, rgba(0,0,0,0.5), rgba(0,0,0,0.2)),
-    url('https://imgur.com/KD9hXy0') center/cover no-repeat;
+    url('https://imgur.com/KD9hXy0.jpg') center/cover no-repeat;
   color:white;
   text-align:center;
 }
@@ -47,4 +47,5 @@ body{
 
 .site-footer{max-width:var(--maxw);margin:18px auto;text-align:center;color:var(--muted);font-size:13px;padding:12px}
 .small{margin-top:6px}
+
 
